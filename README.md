@@ -18,5 +18,6 @@ SpringCloud提供了一整套微服务解决方案，从服务发现到注册，
 
 # 相关链接教程
 #### 博主在学习过程中一路走来觉得比较有用的几个教程，避免了很多弯路
-1. [知乎教程](https://zhuanlan.zhihu.com/dreawer?author=forezp)
-2. [追踪服务教程](https://yq.aliyun.com/articles/78128?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&201758&utm_content=m_19862)
+1. [个人博客](https://caicai457614705.github.io/)
+2. [知乎教程](https://zhuanlan.zhihu.com/dreawer?author=forezp)
+3. [追踪服务教程](https://yq.aliyun.com/articles/78128?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&201758&utm_content=m_19862)
